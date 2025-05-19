@@ -7,5 +7,5 @@ Nutrition Facts portal that features official food composition data produced by 
 - uvicorn
 
 # Usage:
-Run uvicorn main:app --reload
+Run "uvicorn main:app --reload"
 Then access: http://127.0.0.1:8000/
