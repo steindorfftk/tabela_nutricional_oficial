@@ -1,0 +1,32 @@
+#;Alimento;Umidade (%);Energia (kcal);Energia (kJ);Proteína (g);Lipídeos (g);Colesterol (mg);Carboidrato (g);Fibra Alimentar (g);Cinzas (g);Cálcio (mg);Magnésio (mg)
+1;Arroz, integral, cozido;70,1;517;2171;2,6;1;NA;25,8;2,7;5;59;?
+2;Arroz, integral, cru;12,2;1505;6297;7,3;1,9;NA;77,5;4,8;8;110;?
+3;Arroz, tipo 1, cozido;69,1;537;2245;2,5;0,2;NA;28,1;1,6;4;2;?
+4;Arroz, tipo 1, cru;13,2;1497;6261;7,2;0,3;NA;78,8;1,6;4;30;?
+5;Arroz, tipo 2, cozido;68,7;544;2276;2,6;0,4;NA;28,2;1,1;3;6;?
+6;Arroz, tipo 2, cru;13,2;1498;6270;7,2;0,3;5;78,9;1,7;5;29;?
+7;Aveia, flocos, crua;9,1;1648;6898;13,9;8,5;NA;66,6;9,1;48;119;?
+8;Biscoito, doce, maisena;3,2;1853;7753;8,1;12;NA;75,2;2,1;54;37;?
+9;Biscoito, doce, recheado c/chocolate;2,2;1974;8254;6,4;19,6;NA;70,5;3;27;48;?
+10;Biscoito, doce, recheado c/morango;2,7;1971;8247;5,7;19,6;NA;71;1,5;36;27;?
+11;Biscoito, doce, wafer, recheado de chocolate;1,2;2102;8793;5,6;24,7;NA;67,5;1,8;23;48;?
+12;Biscoito, doce, wafer, recheado de morango;1,2;2148;8987;4,5;26,4;NA;67,4;0,8;14;19;?
+13;Biscoito, salgado, cream cracker;4,1;1806;7551;10,1;14,4;NA;68,7;2,5;20;40;?
+14;Bolo, mistura para;1;1752;7329;6,2;6,1;NA;84,7;1,7;59;28;?
+15;Bolo, pronto, aipim;34,1;1355;5669;4,4;12,7;NA;47,9;0,8;85;10;?
+16;Bolo, pronto, chocolate;19,3;1715;7176;6,2;18,5;NA;54,7;1,3;75;28;?
+17;Bolo, pronto, coco;29,3;1395;5839;5,7;11,3;NA;52,3;1,4;57;16;?
+18;Bolo, pronto, milho;36,7;1303;5450;4,8;12,4;NA;45,1;1;83;10;?
+19;Canjica, branca, crua;13,6;1496;6261;7,2;1;Tr;78,1;5,5;2;12;?
+20;Canjica, com leite integral;72,5;471;1969;2,4;1,2;NA;23,6;1,2;43;6;?
+21;Cereais, milho, flocos, com sal;9,3;1546;6471;7,3;1,6;NA;80,8;5,3;2;20;?
+22;Cereais, milho, flocos, sem sal;11,2;1520;6357;6,9;1,2;NA;80,4;1,8;2;17;?
+23;Cereais, mingau, milho, infantil;4,7;1650;6904;6,4;1,1;NA;87,3;3,2;219;16;?
+24;Cereais, mistura para vitamina, trigo, cevada e aveia;4,4;1595;6677;8,9;2,1;NA;81,6;5;584;72;?
+25;Cereal matinal, milho;5,5;1529;6394;7,2;1;NA;83,8;4,1;143;11;?
+26;Cereal matinal, milho, açúcar;4,3;1576;6587;4,7;0,7;NA;88,8;2,5;56;8;?
+27;Creme de arroz, pó;7,3;1615;6750;7;1,2;NA;83,9;0,5;7;51;?
+28;Creme de milho, pó;5,7;1393;5825;4,8;1,6;NA;86,1;2,5;323;30;?
+29;Curau, milho verde;81,6;328;1373;2,4;1,6;NA;13,9;0,6;53;16;?
+30;Curau, milho verde, mistura para;3,9;1683;7036;2,2;13,4;NA;79,8;0,7;31;9;?
+31;Farinha, de arroz, enriquecida;12,7;1519;6356;1,3;0,3;NA;85,5;0,2;1;4;?
