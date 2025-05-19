@@ -40,14 +40,14 @@ async def home():
 
 @app.get("/autocomplete", response_class=HTMLResponse)
 async def autocomplete(busca: str = ""):
-    resultados = df[df['nome'].str.contains(busca, case=False, na=False)]['nome'].head(5).tolist()
+    resultados = df[df['Alimento'].str.contains(busca, case=False, na=False)]['Alimento'].head(5).tolist()
     html = "".join([f'<div class="sugestao" hx-get="/detalhes?alimento={r}" hx-target="#tabela">{r}</div>' for r in resultados])
     return HTMLResponse(content=html)
 
 
 @app.get("/detalhes", response_class=HTMLResponse)
 async def detalhes(alimento: str):
-    dados = df[df['nome'] == alimento].to_dict(orient="records")
+    dados = df[df['Alimento'] == alimento].to_dict(orient="records")
     if not dados:
         return HTMLResponse("<p>Alimento não encontrado</p>")
     item = dados[0]
